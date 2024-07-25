@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: io.bgeles.mockito.CourseBusinessMockitoInjectMockTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.032 s -- in io.bgeles.mockito.CourseBusinessMockitoInjectMockTest
